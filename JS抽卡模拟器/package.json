@@ -1,0 +1,12 @@
+{
+  "name": "gi-emulator",
+  "version": "1.0.0",
+  "description": "A GI chouka emilator",
+  "main": "index.js",
+  "author": "AyalaKaguya",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
